@@ -19,6 +19,6 @@ bdl-report-assets/
 
 Assets in this repository are served directly via GitHub's raw CDN for automated multi-channel publication (LinkedIn document carousels, X / Twitter image attachments, Nostr notes, and Buffer GraphQL API):
 
-- **Lightning Daily Pulse PDF**: `https://raw.githubusercontent.com/sorukumar/bdl-report-assets/main/lightning/daily/ln_pulse_carousel.pdf`
-- **Lightning Weekly Wrap PDF**: `https://raw.githubusercontent.com/sorukumar/bdl-report-assets/main/lightning/weekly/ln_weekly_carousel.pdf`
-- **TWIB Weekly Digest PDF**: `https://raw.githubusercontent.com/sorukumar/orange-dev-data/main/output/twib/carousels/twib_weekly_carousel.pdf` -> `https://raw.githubusercontent.com/sorukumar/bdl-report-assets/main/bitcoin/twib/twib_weekly_carousel.pdf`
+- **Lightning Daily Pulse PDF**: `https://raw.githubusercontent.com/bitcoindatalabs/bdl-report-assets/main/lightning/daily/ln_pulse_carousel.pdf`
+- **Lightning Weekly Wrap PDF**: `https://raw.githubusercontent.com/bitcoindatalabs/bdl-report-assets/main/lightning/weekly/ln_weekly_carousel.pdf`
+- **TWIB Weekly Digest PDF**: `https://raw.githubusercontent.com/bitcoindatalabs/bdl-report-assets/main/bitcoin/twib/twib_weekly_carousel.pdf`
