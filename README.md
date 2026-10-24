@@ -23,3 +23,8 @@ Assets in this repository are served directly via GitHub's raw CDN for automated
 - **Lightning Daily Ledger Card**: `https://raw.githubusercontent.com/bitcoindatalabs/bdl-report-assets/main/lightning/ln_daily_ledger.png`
 - **Lightning Weekly Wrap PDF**: `https://raw.githubusercontent.com/bitcoindatalabs/bdl-report-assets/main/lightning/weekly/ln_weekly_carousel.pdf`
 - **TWIB Weekly Digest PDF**: `https://raw.githubusercontent.com/bitcoindatalabs/bdl-report-assets/main/bitcoin/twib/twib_weekly_carousel.pdf`
+
+## License
+
+[CC BY 4.0](LICENSE). Free to reuse, including commercially and in the press, with credit: "Source: Bitcoin Data Labs
+(bitcoindatalabs.org)". Third-party logos and avatars that appear in some assets remain their owners'.
